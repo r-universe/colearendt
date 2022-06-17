@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gitlink",
+    "oncran": true
+  },
+  {
+    "package": "tidyjson",
+    "oncran": true
+  },
+  {
+    "package": "xlsx",
+    "oncran": true
+  }
+]
