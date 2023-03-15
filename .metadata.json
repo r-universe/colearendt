@@ -1,6 +1,6 @@
 [
   {
-    "package": "gitlink",
+    "package": "xlsx",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "xlsx",
+    "package": "gitlink",
     "oncran": true
   }
 ]
