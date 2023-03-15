@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "xlsx"]
-	path = xlsx
-	url = https://github.com/colearendt/xlsx
+[submodule "gitlink"]
+	path = gitlink
+	url = https://github.com/colearendt/gitlink
 	shallow = true
 	registered = true
 [submodule "tidyjson"]
@@ -13,8 +13,8 @@
 	url = https://github.com/colearendt/tidyjson
 	shallow = true
 	registered = true
-[submodule "gitlink"]
-	path = gitlink
-	url = https://github.com/colearendt/gitlink
+[submodule "xlsx"]
+	path = xlsx
+	url = https://github.com/colearendt/xlsx
 	shallow = true
 	registered = true
