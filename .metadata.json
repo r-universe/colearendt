@@ -10,5 +10,9 @@
   {
     "package": "xlsx",
     "oncran": true
+  },
+  {
+    "package": "xlsxjars",
+    "oncran": true
   }
 ]

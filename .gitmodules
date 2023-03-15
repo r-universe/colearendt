@@ -18,3 +18,8 @@
 	url = https://github.com/colearendt/xlsx
 	shallow = true
 	registered = true
+[submodule "xlsxjars"]
+	path = xlsxjars
+	url = https://github.com/colearendt/xlsxjars
+	shallow = true
+	registered = true
