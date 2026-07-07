@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gitlink"]
-	path = gitlink
-	url = https://github.com/colearendt/gitlink
 [submodule "tidyjson"]
 	path = tidyjson
 	url = https://github.com/colearendt/tidyjson
